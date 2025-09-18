@@ -1,0 +1,9 @@
+site_name: Module 2 - Python
+site_description: Introduction to Red Hat Dev Spaces - Python
+
+nav:
+  - Overview: index.md
+  - Setup: setup.md
+
+plugins:
+  - techdocs-core
