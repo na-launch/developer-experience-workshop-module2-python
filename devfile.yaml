@@ -1,9 +1,10 @@
 schemaVersion: 2.2.2
 metadata:
   name: workshop-module2-python
-  description: module2
-  displayName: devfile
-
+  version: 1.0.0
+  description: DevSpaces workspace for Python app
+attributes:
+  che-editor: vscode
 components:
 - container:
    args:
